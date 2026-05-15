@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+*.csv
+*.xlsx
+*.zip
+*.mp4
+*.h5
+*.pt
+*.pth
+node_modules/
+.ipynb_checkpoints/
